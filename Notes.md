@@ -1,4 +1,4 @@
-# DB supported natrually by Vercel
+# DB supported naturally by Vercel
 
 https://vercel.com/docs/storage#
 
